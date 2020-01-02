@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='check-type',
-    version='v0.0.1',
+    version='v0.0.2',
     description='Runtime Python type checking',
     author='jsh9',
     license='MIT',
